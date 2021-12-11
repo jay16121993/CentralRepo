@@ -1,6 +1,9 @@
 <<<<<<< HEAD
 hello hi
+<<<<<<< HEAD
 
 hello 2 hi
 =======
 >>>>>>> parent of d96d8de (l)
+=======
+>>>>>>> parent of b642524 (m)
