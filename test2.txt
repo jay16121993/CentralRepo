@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 hello hi
 
 hello 2 hi
+=======
+>>>>>>> parent of d96d8de (l)
